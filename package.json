@@ -1,0 +1,24 @@
+{
+  "name": "cardstudio",
+  "version": "0.1.0",
+  "description": "Standalone visual card designer for Discord bot projects.",
+  "main": "src/server.js",
+  "scripts": {
+    "studio": "node src/server.js",
+    "start": "node src/server.js",
+    "check": "node src/check.js"
+  },
+  "keywords": [
+    "discord",
+    "cards",
+    "designer",
+    "canvas",
+    "bot"
+  ],
+  "author": "Jeremy Bryant",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
